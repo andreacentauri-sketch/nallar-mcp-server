@@ -8,7 +8,7 @@
     "agent-tools",
     "ai-engineering"
   ],
-  "license": "MANUAL_SELECTION_REQUIRED",
+  "license": "MIT",
   "recommended_pin": false,
   "repository_name": "nallar-mcp-server",
   "visibility": "public_after_manual_security_review"
