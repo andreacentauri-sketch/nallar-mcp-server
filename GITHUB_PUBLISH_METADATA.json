@@ -1,0 +1,15 @@
+{
+  "github_description": "Read-only stdio/JSON-RPC MCP-facing server with tools, resources, prompts, initialization, and negative-path handling. 10/10 local protocol tests.",
+  "github_topics": [
+    "mcp",
+    "json-rpc",
+    "ai-tools",
+    "python",
+    "agent-tools",
+    "ai-engineering"
+  ],
+  "license": "MANUAL_SELECTION_REQUIRED",
+  "recommended_pin": false,
+  "repository_name": "nallar-mcp-server",
+  "visibility": "public_after_manual_security_review"
+}
